@@ -39,6 +39,11 @@ You can click the Preview link to take a look at your changes.
 
 - ⚡ Fun fact **AshXD🎭**
 
+<a href="">
+<img src="https://app.simplified.co/designs/847018/be6128a3-f896-4045-ba63-63f964a69dd1/AI%2520For%2520Life" />
+</a>
+
+
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.behance.net/https://behance.net/shrey-21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://behance.net/shrey-21" height="30" width="40" /></a>
