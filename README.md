@@ -23,6 +23,8 @@ You can click the Preview link to take a look at your changes.
 " />
 </a>
 
+[![Shrey Srivastava GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Shrey-Srivastava21&&theme=xcode)](https://github.com/Shrey-Srivastava21)
+
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrey-srivastava21&label=Profile%20views&color=0e75b6&style=flat" alt="shrey-srivastava21" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrey-srivastava21" alt="shrey-srivastava21" /></a> </p>
