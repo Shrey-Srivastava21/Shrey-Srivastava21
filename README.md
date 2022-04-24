@@ -40,6 +40,9 @@ You can click the Preview link to take a look at your changes.
 - ⚡ Fun fact **AshXD🎭**
 
 
+https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png
+
+
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.behance.net/https://behance.net/shrey-21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://behance.net/shrey-21" height="30" width="40" /></a>
