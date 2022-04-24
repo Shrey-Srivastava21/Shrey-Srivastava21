@@ -23,6 +23,8 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
+
 - 🔭 I’m currently working on **AI Based Music Player**
 
 - 🌱 I’m currently learning **Full Stack Development👀**
@@ -40,7 +42,7 @@ You can click the Preview link to take a look at your changes.
 - ⚡ Fun fact **AshXD🎭**
 
 
-https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png
+
 
 
 <!-- <h3 align="left">Connect with me:</h3>
