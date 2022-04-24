@@ -53,7 +53,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🥅 2022 Goals: Contribute more to Open Source projects
 
-- 📫 How to reach me **devshrey.1738@gmail.com and Contact me at +91-6392098133**
+- 📫 How to reach me **devshrey.1738@gmail.com or Contact me at +91-6392098133**
 
 - ⚡ Fun fact **AshXD🎭**
 
