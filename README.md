@@ -39,9 +39,7 @@ You can click the Preview link to take a look at your changes.
 
 - ⚡ Fun fact **AshXD🎭**
 
-<a href="">
-<img src="https://app.simplified.co/designs/847018/be6128a3-f896-4045-ba63-63f964a69dd1/AI%2520For%2520Life" />
-</a>
+https://app.simplified.co/designs/847018/be6128a3-f896-4045-ba63-63f964a69dd1/AI%2520For%2520Life
 
 
 <!-- <h3 align="left">Connect with me:</h3>
