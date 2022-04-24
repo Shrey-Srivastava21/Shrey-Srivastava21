@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 --->
  -->
  <h1 align="center">Hi 👋, I'm Shrey Srivastava@Devashi😎</h1>
-<h3 align="center">Passionate in Software Development and Web Developement👻👾</h3>
+<h3 align="center">Passionate in Software Development and Web Development👻👾</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrey-srivastava21&label=Profile%20views&color=0e75b6&style=flat" alt="shrey-srivastava21" /> </p>
 
@@ -30,6 +30,10 @@ You can click the Preview link to take a look at your changes.
 - 👯 I’m looking to collaborate on **Stock Predictor Website**
 
 - 💬 Ask me about **#DSA(C++&Java) and #Web_Development🤖**
+
+- 🤖 I'm co-leader and pro-coding member of Hackathon Team at VIT, Bhopal-@Titanus
+
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 - 📫 How to reach me **devshrey.1738@gmail.com and Contact me at +91-6392098133**
 
