@@ -17,6 +17,12 @@ You can click the Preview link to take a look at your changes.
  <h1 align="center">Hi 👋, I'm Shrey Srivastava@Devashi😎</h1>
 <h3 align="center">Passionate in Software Development and Web Development👻👾</h3>
 
+
+<a href="">
+<img src="![1](https://user-images.githubusercontent.com/84815622/164991101-492e0e1c-bc8c-4336-8dae-e77fca9ccfce.png)
+" />
+</a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrey-srivastava21&label=Profile%20views&color=0e75b6&style=flat" alt="shrey-srivastava21" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrey-srivastava21" alt="shrey-srivastava21" /></a> </p>
