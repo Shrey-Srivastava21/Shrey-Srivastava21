@@ -18,46 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://github.com/aagarwal1012/Animated-Text-Kit/blob/master/display/colorize.gif?raw=true" align = "right" height = "300px"> -->
 
-```dart
-const colorizeColors = [
-  Colors.purple,
-  Colors.blue,
-  Colors.yellow,
-  Colors.red,
-];
 
-const colorizeTextStyle = TextStyle(
-  fontSize: 50.0,
-  fontFamily: 'Horizon',
-);
-
-return SizedBox(
-  width: 250.0,
-  child: AnimatedTextKit(
-    animatedTexts: [
-      ColorizeAnimatedText(
-        'Larry Page',
-        textStyle: colorizeTextStyle,
-        colors: colorizeColors,
-      ),
-      ColorizeAnimatedText(
-        'Bill Gates',
-        textStyle: colorizeTextStyle,
-        colors: colorizeColors,
-      ),
-      ColorizeAnimatedText(
-        'Steve Jobs',
-        textStyle: colorizeTextStyle,
-        colors: colorizeColors,
-      ),
-    ],
-    isRepeatingAnimation: true,
-    onTap: () {
-      print("Tap Event");
-    },
-  ),
-);
-```
 
 
 
