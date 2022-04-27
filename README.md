@@ -118,6 +118,35 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrey-srivastava21&" alt="shrey-srivastava21" /></p> -->
 
+  ### Github Stats
+  
+<p align="center">
+  <a href="https://github.com/amandewatnitrr"><span>
+    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=amandewatnitrr&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amandewatnitrr&theme=radical" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amandewatnitrr&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=radical"/>
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amandewatnitrr&theme=dracula" />
+    </span></a>
+</p>
+  
+<br>
+  
+### 🏆 GitHub Profile Trophy:
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=amandewatnitrr&column=8&theme=onedark&no-frame=true&no-bg=true"/>
+</a>
+</p>
+
+<p align="center">
+<a href="https://profile.codersrank.io/user/amandewatnitrr"><img width="494px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=amandewatnitrr&layout=horizontal&badges=3&show-avatar=true&min-width=494px&branding=false&style=--bg-color:%23fff;--border:1px%20solid%23e4e2e2;--border-radius:4px;--header-padding:20px;--header-bg-color:%232f80ed;--name-font-size:18px;--name-font-weight:bold;--rank-font-size:14px;--preloader-color:%232f80ed;--badges-padding:20px;--badge-box-shadow:none;--badge-border:1px%20solid%23e4e2e2;--badge-rank-font-size:12px;--badge-location-font-size:12px;--badge-padding:10px;--badge-margin:10px;--badge-icon-size:16px;--badge-technology-font-size:14px;--badge-technology-font-weight:normal)" /></a>
+</p>
+
+<br>  
+  
+![snake svg](https://github.com/adityamangal1/adityamangal1/blob/output/github-contribution-grid-snake.svg)
+  
+![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrey-srivastava21&show_icons=true&locale=en&layout=compact" alt="shrey-srivastava21" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrey-srivastava21&show_icons=true&locale=en" alt="shrey-srivastava21" /></p>
