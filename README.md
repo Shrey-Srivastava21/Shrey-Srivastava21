@@ -14,6 +14,11 @@ Shrey-Srivastava21/Shrey-Srivastava21 is a ✨ special ✨ repository because it
 You can click the Preview link to take a look at your changes.
 --->
 
+## Colorize
+
+<img src="https://github.com/aagarwal1012/Animated-Text-Kit/blob/master/display/colorize.gif?raw=true" align = "right" height = "300px">
+
+```dart
 const colorizeColors = [
   Colors.purple,
   Colors.blue,
@@ -52,6 +57,8 @@ return SizedBox(
     },
   ),
 );
+```
+
 
 
 <h1 align="center">Hi 👋, I'm Shrey Srivastava@Devashi😎</h1>
