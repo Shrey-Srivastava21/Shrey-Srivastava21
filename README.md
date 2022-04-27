@@ -14,6 +14,46 @@ Shrey-Srivastava21/Shrey-Srivastava21 is a ✨ special ✨ repository because it
 You can click the Preview link to take a look at your changes.
 --->
 
+const colorizeColors = [
+  Colors.purple,
+  Colors.blue,
+  Colors.yellow,
+  Colors.red,
+];
+
+const colorizeTextStyle = TextStyle(
+  fontSize: 50.0,
+  fontFamily: 'Horizon',
+);
+
+return SizedBox(
+  width: 250.0,
+  child: AnimatedTextKit(
+    animatedTexts: [
+      ColorizeAnimatedText(
+        'Larry Page',
+        textStyle: colorizeTextStyle,
+        colors: colorizeColors,
+      ),
+      ColorizeAnimatedText(
+        'Bill Gates',
+        textStyle: colorizeTextStyle,
+        colors: colorizeColors,
+      ),
+      ColorizeAnimatedText(
+        'Steve Jobs',
+        textStyle: colorizeTextStyle,
+        colors: colorizeColors,
+      ),
+    ],
+    isRepeatingAnimation: true,
+    onTap: () {
+      print("Tap Event");
+    },
+  ),
+);
+
+
 <h1 align="center">Hi 👋, I'm Shrey Srivastava@Devashi😎</h1>
 <h3 align="center">Passionate in Software Development and Web Development👻👾</h3>
 
