@@ -54,6 +54,7 @@ You can click the Preview link to take a look at your changes.
 
 ### 🌐 Browsers
 
+
 | Name          | Badge                                                                                                                       | Markdown                                                                                                                      |
 | ------------- | --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | Brave         | ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)                          | `![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)`                          |
