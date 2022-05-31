@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 <h3 align="center">
 <!--   <h3 align="center">Passionate in Software Development and Web Development👻👾</h3>
-  Hi 👋there, I'm Shrey Srivastava@Devashi😎 -->
+  Hi 👋there, I'm Shrey Srivastava@Dev🐱‍👤 -->
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
