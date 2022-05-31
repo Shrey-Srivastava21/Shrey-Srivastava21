@@ -40,8 +40,8 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">(◠‿◕)SHREY╬メ👻</h3>
 <h3 align="center">🙂 NEVER GIVE UP😉</h3>
 <h3 align="center">🎶🔋📲🍗👨‍💼♻️</h3>
-<h3 align="center">👨‍💻Dream computer expert</h3>
-<h3 align="center">#loveprogramming</h3>
+<h3 align="center">👨‍💻Dream Software Expert</h3>
+<h3 align="center">#loveprogramming#chillwith😍</h3>
 
 
 <a href="">
