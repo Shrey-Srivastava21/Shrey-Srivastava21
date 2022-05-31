@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <h1 align="center">Hi 👋, I'm Shrey Srivastava@Dev🐱‍👤</h1>
-<h3 align="center">Passionate in Software Development and Web Development👻👾</h3>
+<h3 align="center">Passionate in Software & Web Development👻👾</h3>
 <h3 align="center">(◠‿◕)SHREY╬メ🎭</h3>
 <h3 align="center">🙂 NEVER GIVE UP😉</h3>
 <h3 align="center">🎶🔋📲🍗👨‍💼♻️</h3>
