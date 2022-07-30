@@ -18,6 +18,25 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://github.com/aagarwal1012/Animated-Text-Kit/blob/master/display/colorize.gif?raw=true" align = "right" height = "300px"> -->
 
+<p align='center'>
+ <h1 align="center">
+  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
+  <a href="/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwrk&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
+  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
+</h1>
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=bc-master.bc-master" />
+
+<h1 align="center"></h1>
+<img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=bc-master&count_private=true&show_icons=true&theme=chartreuse-dark" />
+<img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bc-master&layout=compact&theme=chartreuse-dark&langs_count=8" />
+<img height="150" />
+<br><br>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450px" height="300px" />
+<br><br>
+<img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
+<h2 align="left" font-weight="bold">About me</h2> 
+
 <p align="right">
   <a href="https://wakatime.com/@shakib"><img alt="" src="https://wakatime.com/badge/user/8e02bfd3-85d8-4d9d-88df-fa983f91ff30.svg"></a>
   <a href="#"><img alt="" src="https://gpvc.arturio.dev/Mo-Shakib"></a>
