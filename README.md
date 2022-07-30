@@ -311,3 +311,4 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrey-srivastava21&" alt="Shrey-Srivastava21" /></p>
 
+![Shrey Srivastava's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shrey-Srivastava21&show_icons=true&theme=radical)
