@@ -190,6 +190,9 @@ You can click the Preview link to take a look at your changes.
 
 ## 🏆 GitHub Trophies
 <p align="center">
+ 
+
+<p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=Shrey-Srivastava21&theme=discord&column=8" alt="Shrey-Srivastava21" /></p>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Shrey-Srivastava21&theme=discord&column=8)](https://github-profile-trophy.vercel.app/?username=Shrey-Srivastava21&theme=discord&column=8)
 </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> 
