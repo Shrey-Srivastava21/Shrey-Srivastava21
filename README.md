@@ -74,12 +74,11 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Shrey Srivastava@Dev🐱‍👤</h1>
 <h3 align="center">Passionate in Software & Web Development👻👾</h3>
 <h3 align="center">(◠‿◕)SHREY╬メ🎭</h3>
+<h3 align="center">ASPIRING SDE🐱‍🚀</h3>
 <h3 align="center">🙂 NEVER GIVE UP😉</h3>
-<h3 align="center">🎶🔋📲🍰👨‍💼♻️</h3>
 <h3 align="center">👨‍💻Dream Software Expert</h3>
 <h3 align="center">#loveprogramming#chillwith😍</h3>
-<h3 align="center">ASPIRING SDE🐱‍🚀</h3>
-
+<h3 align="center">🎶🔋📲🍰👨‍💼♻️</h3>
 
 <a href="">
 <img src="![1](https://user-images.githubusercontent.com/84815622/164991101-492e0e1c-bc8c-4336-8dae-e77fca9ccfce.png)
