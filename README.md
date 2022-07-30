@@ -189,12 +189,10 @@ You can click the Preview link to take a look at your changes.
 <!-- <p align="centre"> <a href="https://github.com/Shrey-Srivastava21/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shrey-Srivastava21&theme=discord&row=3&margin-w=2&margin-h=15" alt="shrey-srivastava21" /></a> </p> -->
 
 ## 🏆 GitHub Trophies
-<p align="center">
- 
 
 <p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=Shrey-Srivastava21&theme=discord&column=8" alt="Shrey-Srivastava21" /></p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shrey-Srivastava21&theme=discord&column=8)](https://github-profile-trophy.vercel.app/?username=Shrey-Srivastava21&theme=discord&column=8)
-</p>
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Shrey-Srivastava21&theme=discord&column=8)](https://github-profile-trophy.vercel.app/?username=Shrey-Srivastava21&theme=discord&column=8)
+</p> -->
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> 
 
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
@@ -306,10 +304,10 @@ You can click the Preview link to take a look at your changes.
 
 <br>  
   
-![snake svg](https://github.com/adityamangal1/adityamangal1/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake svg](https://github.com/adityamangal1/adityamangal1/blob/output/github-contribution-grid-snake.svg)
 
 <p>
-![Shrey Srivastava's Most used Languages](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
+![Shrey Srivastava's Most used Languages](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg) -->
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrey-srivastava21&show_icons=true&theme=dracula&locale=en&layout=compact" alt="shrey-srivastava21" /></p>
  
