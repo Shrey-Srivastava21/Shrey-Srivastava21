@@ -148,7 +148,7 @@ https://github-profile-trophy.vercel.app/?username=Shrey-Srivastava21&theme=mono
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrey-srivastava21&label=Profile%20views&color=0e75b6&style=flat" alt="shrey-srivastava21" /> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shrey-Srivastava21&theme=monokai&column=3&margin-w=20&margin-h=20" alt="shrey-srivastava21" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shrey-Srivastava21&theme=monokai&row=1&margin-w=20&margin-h=20" alt="shrey-srivastava21" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> 
 
