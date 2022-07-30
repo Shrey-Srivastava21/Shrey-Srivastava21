@@ -161,6 +161,8 @@ You can click the Preview link to take a look at your changes.
 | MongoDB              | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)                                      | `![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)`                                      |
 | MySQL                | ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)                        
 
+
+## 📈 GitHub Activity Graph
 [![Shrey Srivastava GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Shrey-Srivastava21&&theme=xcode)](https://github.com/Shrey-Srivastava21)
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrey-srivastava21&label=Profile%20views&color=0e75b6&style=flat" alt="shrey-srivastava21" /> </p> -->
