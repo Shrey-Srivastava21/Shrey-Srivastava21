@@ -56,7 +56,7 @@ You can click the Preview link to take a look at your changes.
   <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+🌎;Welcome+to+my+profile+😇;Happy+to+see+you+here+😀;Feel+free+to+look+around+😌;Reach+me+out+if+you+need+me+🤗;Have+a+great+day+😊"></a> -->
 <!-- </p> --> 
 
-<p align="right">
+<p align="centre">
   <a href="https://wakatime.com/@shakib"><img alt="" src="https://wakatime.com/badge/user/8e02bfd3-85d8-4d9d-88df-fa983f91ff30.svg"></a>
   <a href="#"><img alt="" src="https://gpvc.arturio.dev/Mo-Shakib"></a>
 </p>
