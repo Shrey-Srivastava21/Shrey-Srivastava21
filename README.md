@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
 <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
 <h2 align="left" font-weight="bold">About me</h2>  -->
 
-<p align="right">
+<!-- <p align="right">
   <a href="https://wakatime.com/@shakib"><img alt="" src="https://wakatime.com/badge/user/8e02bfd3-85d8-4d9d-88df-fa983f91ff30.svg"></a>
   <a href="#"><img alt="" src="https://gpvc.arturio.dev/Mo-Shakib"></a>
 </p>
@@ -52,9 +52,9 @@ You can click the Preview link to take a look at your changes.
 <img align="centre" alt="GIF" src="https://github.com/Shrey-Srivastava21/Shrey-Srivastava21/blob/master/code.gif?raw=true" width="450px" height="300px" />
 <br><br>
  -->
-<p align="center">
-  <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+🌎;Welcome+to+my+profile+😇;Happy+to+see+you+here+😀;Feel+free+to+look+around+😌;Reach+me+out+if+you+need+me+🤗;Have+a+great+day+😊"></a>
-</p>
+<!-- <-- <p align="center">
+  <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+🌎;Welcome+to+my+profile+😇;Happy+to+see+you+here+😀;Feel+free+to+look+around+😌;Reach+me+out+if+you+need+me+🤗;Have+a+great+day+😊"></a> -->
+<!-- </p> --> -->
 
 
 <h1 align="center">Hi 👋, I'm Shrey Srivastava@Dev🐱‍👤</h1>
