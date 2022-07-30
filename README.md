@@ -57,7 +57,7 @@ You can click the Preview link to take a look at your changes.
 <!-- </p> --> 
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"></a>
+  <src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"></a>
 </p>
 
 <p align="center">
