@@ -304,10 +304,10 @@ You can click the Preview link to take a look at your changes.
 
 <br>  
   
-<!-- ![snake svg](https://github.com/adityamangal1/adityamangal1/blob/output/github-contribution-grid-snake.svg)
+![snake svg](https://github.com/adityamangal1/adityamangal1/blob/output/github-contribution-grid-snake.svg)
 
-<p>
-![Shrey Srivastava's Most used Languages](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg) -->
+<!-- <-- <p>
+![Shrey Srivastava's Most used Languages](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg) --> -->
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrey-srivastava21&show_icons=true&theme=dracula&locale=en&layout=compact" alt="shrey-srivastava21" /></p>
  
