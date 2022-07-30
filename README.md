@@ -309,6 +309,6 @@ You can click the Preview link to take a look at your changes.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrey-srivastava21&show_icons=true&locale=en" alt="shrey-srivastava21" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrey-srivastava21&" alt="Shrey-Srivastava21" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrey-srivastava21&theme=monokai" alt="Shrey-Srivastava21" /></p>
 
 ![Shrey Srivastava's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shrey-Srivastava21&show_icons=true&theme=onedark)
