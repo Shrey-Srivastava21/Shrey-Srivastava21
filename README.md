@@ -192,7 +192,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=Shrey-Srivastava21&theme=discord&column=8" alt="Shrey-Srivastava21" /></p>
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Shrey-Srivastava21&theme=discord&column=8)](https://github-profile-trophy.vercel.app/?username=Shrey-Srivastava21&theme=discord&column=8)
-</p> -->
+-->
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> 
 
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
@@ -215,7 +215,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 🌟 Connect with me
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shrey-srivastava-591bb21bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shrey-srivastava-591bb21bb/" height="30" width="40" /></a>
 
