@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://github.com/aagarwal1012/Animated-Text-Kit/blob/master/display/colorize.gif?raw=true" align = "right" height = "300px"> -->
 
-<p align='center'>
+<!-- <p align='center'>
  <h1 align="center">
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
   <a href="/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwrk&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
@@ -51,7 +51,7 @@ You can click the Preview link to take a look at your changes.
 <br><br>
 <img align="centre" alt="GIF" src="https://github.com/Shrey-Srivastava21/Shrey-Srivastava21/blob/master/code.gif?raw=true" width="450px" height="300px" />
 <br><br>
-
+ -->
 <p align="center">
   <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+🌎;Welcome+to+my+profile+😇;Happy+to+see+you+here+😀;Feel+free+to+look+around+😌;Reach+me+out+if+you+need+me+🤗;Have+a+great+day+😊"></a>
 </p>
