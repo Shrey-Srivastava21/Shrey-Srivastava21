@@ -205,7 +205,7 @@ You can click the Preview link to take a look at your changes.
 
 - 💬 Ask me about **#DSA(C++&Java) and #Web_Development🤖**
 
-- 🤖 I'm co-leader and pro-coding member of Hackathon Team at VIT, Bhopal-@Titanus
+- 🤖 I'm **Co-Founder** and **Tech Leader of Technical Department** at VIT, Bhopal-@**Insights Club-VITB**
 
 - 🥅 2022 Goals: Contribute more to Open Source projects
 
