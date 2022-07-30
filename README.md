@@ -186,7 +186,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrey-srivastava21&label=Profile%20views&color=0e75b6&style=flat" alt="shrey-srivastava21" /> </p> -->
 
-<p align="centre"> <a href="https://github.com/Shrey-Srivastava21/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shrey-Srivastava21&theme=discord&row=3&margin-w=2&margin-h=15" alt="shrey-srivastava21" /></a> </p>
+<!-- <p align="centre"> <a href="https://github.com/Shrey-Srivastava21/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shrey-Srivastava21&theme=discord&row=3&margin-w=2&margin-h=15" alt="shrey-srivastava21" /></a> </p> -->
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Shrey-Srivastava21&theme=discord&column=8)](https://github-profile-trophy.vercel.app/?username=Shrey-Srivastava21&theme=discord&column=8)
@@ -211,7 +211,7 @@ You can click the Preview link to take a look at your changes.
 
 - ⚡ Fun fact **AshXD🎭**
 
-## 💖 Gonnect with me🌟
+## 🌟 Connect with me
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
