@@ -35,15 +35,15 @@ You can click the Preview link to take a look at your changes.
 <img align="centre" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450px" height="300px" />
 <br><br>
 <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
-<h2 align="left" font-weight="bold">About me</h2> 
+<h2 align="left" font-weight="bold">About me</h2>  -->
 
 <p align="right">
   <a href="https://wakatime.com/@shakib"><img alt="" src="https://wakatime.com/badge/user/8e02bfd3-85d8-4d9d-88df-fa983f91ff30.svg"></a>
   <a href="#"><img alt="" src="https://gpvc.arturio.dev/Mo-Shakib"></a>
 </p>
 <h3 align="center">
-<!--   <h3 align="center">Passionate in Software Development and Web Development👻👾</h3>
-  Hi 👋there, I'm Shrey Srivastava@Dev🐱‍👤 -->
+<h3 align="center">Passionate in Software Development and Web Development👻👾</h3>
+  Hi 👋there, I'm Shrey Srivastava@Dev🐱‍👤 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
