@@ -234,7 +234,6 @@ You can click the Preview link to take a look at your changes.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrey-srivastava21&" alt="shrey-srivastava21" /></p> -->
 
 <!-- ### Github Stats
-  
 <p align="center">
   <a href="https://github.com/amandewatnitrr"><span>
     <img height="48%" src="https://github-readme-stats.vercel.app/api?username=amandewatnitrr&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
@@ -266,5 +265,5 @@ You can click the Preview link to take a look at your changes.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrey-srivastava21&show_icons=true&locale=en" alt="shrey-srivastava21" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrey-srivastava21&" alt="shrey-srivastava21" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrey-srivastava21&" alt="Shrey-Srivastava21" /></p>
 
