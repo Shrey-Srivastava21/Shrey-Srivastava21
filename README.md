@@ -313,7 +313,7 @@ You can click the Preview link to take a look at your changes.
 <!-- <-- <p>
 ![Shrey Srivastava's Most used Languages](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg) --> 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrey-srivastava21&show_icons=true&theme=dracula&locale=en&layout=compact" alt="shrey-srivastava21" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrey-srivastava21&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="shrey-srivastava21" /></p>
  
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrey-srivastava21&show_icons=true&locale=en" alt="shrey-srivastava21" /></p> -->
