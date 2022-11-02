@@ -2,6 +2,8 @@
   <src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"></a>
 </p>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Shrey-Srivastava21&label=Profile%20views&color=0e75b6&style=flat-square" alt="Shrey-Srivastava21" width="150px"> </p>
+
 <p align="center">
   <a href="https://wakatime.com/@shakib"><img alt="" src="https://wakatime.com/badge/user/8e02bfd3-85d8-4d9d-88df-fa983f91ff30.svg"></a>
   <a href="#"><img alt="" src="https://gpvc.arturio.dev/Mo-Shakib"></a>
@@ -88,7 +90,7 @@
 [![](https://img.shields.io/badge/-demonshrey.1738@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:demonshrey.1738@gmail.com)](mailto:demonshrey.1738@gmail.com)
 [![](https://img.shields.io/badge/-Shrey-Srivastava21-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shrey-Srivastava21)
 ![](https://img.shields.io/badge/-sajal%20%231739-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=guptasajal411&label=Profile%20views&color=0e75b6&style=flat-square" alt="guptasajal411" width="150px"> </p>
+
 
           
 ## 📈 GitHub Activity Graph
