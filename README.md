@@ -1,5 +1,15 @@
-<p align="center">
-  <src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"></a>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width=50% height=auto>
+</h1>
+
+<h1 align="right">Hi 👋, I'm Shrey Srivastava@Dev🐱‍👤</h1>
+<h3 align="right">Passionate in Software & Web Development👻👾</h3>
+<h3 align="right">(◠‿◕)SHREY╬メ🎭</h3>
+<h3 align="right">ASPIRING SDE🐱‍🚀</h3>
+<h3 align="right">🙂 NEVER GIVE UP😉</h3>
+<h3 align="right">👨‍💻Dream Software Expert</h3>
+<h3 align="right">#loveprogramming#chillwith😍</h3>
+<h3 align="right">🎶🔋📲🍰👨‍💼♻️</h3>
 </p>
 
 <img width="200px" align="left" src="https://komarev.com/ghpvc/?username=your-github-Shrey-Srivastava21&style=flat-square&color=232323">
@@ -10,11 +20,11 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shrey-Srivastava21&theme=monokai" display=block width=100% height=auto  alt="1" >
 </div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Shrey-Srivastava21&label=Profile%20views&color=0e75b6&style=flat-square" alt="Shrey-Srivastava21" width="250px"> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shrey-Srivastava21&label=Profile%20views&color=0e75b6&style=flat-square" alt="Shrey-Srivastava21" width="150px"> </p>
 
-<p align="center">
-  <a href="https://wakatime.com/@shakib"><img alt="" src="https://wakatime.com/badge/user/8e02bfd3-85d8-4d9d-88df-fa983f91ff30.svg"></a>
-  <a href="#"><img alt="" src="https://gpvc.arturio.dev/Mo-Shakib"></a>
+<p align="center"> <a href="https://wakatime.com/@Shrey-Srivastava21"><img alt="" src="https://wakatime.com/badge/user/8e02bfd3-85d8-4d9d-88df-fa983f91ff30.svg" alt="Shrey-Srivastava21" width="250px"> </a> </p>
+  
+<!--   <a href="#"><img alt="" src="https://gpvc.arturio.dev/Shrey-Srivastava21"></a> -->
 </p>
 <h3 align="center">
 <!--   <h3 align="center">Passionate in Software Development and Web Development👻👾</h3>
@@ -27,7 +37,7 @@
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Shrey Srivastava@Dev🐱‍👤</h1>
+<!-- <h1 align="center">Hi 👋, I'm Shrey Srivastava@Dev🐱‍👤</h1>
 <h3 align="center">Passionate in Software & Web Development👻👾</h3>
 <h3 align="center">(◠‿◕)SHREY╬メ🎭</h3>
 <h3 align="center">ASPIRING SDE🐱‍🚀</h3>
@@ -35,7 +45,7 @@
 <h3 align="center">👨‍💻Dream Software Expert</h3>
 <h3 align="center">#loveprogramming#chillwith😍</h3>
 <h3 align="center">🎶🔋📲🍰👨‍💼♻️</h3>
-
+ -->
 <a href="">
 <img src="![1](https://user-images.githubusercontent.com/84815622/164991101-492e0e1c-bc8c-4336-8dae-e77fca9ccfce.png)
 " />
