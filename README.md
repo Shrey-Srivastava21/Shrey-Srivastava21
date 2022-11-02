@@ -2,6 +2,14 @@
   <src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"></a>
 </p>
 
+<img width="200px" align="left" src="https://komarev.com/ghpvc/?username=your-github-Shrey-Srivastava21&style=flat-square&color=232323">
+<hr>
+<br>
+
+<div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shrey-Srivastava21&theme=monokai" display=block width=100% height=auto  alt="1" >
+</div>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Shrey-Srivastava21&label=Profile%20views&color=0e75b6&style=flat-square" alt="Shrey-Srivastava21" width="150px"> </p>
 
 <p align="center">
