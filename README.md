@@ -10,7 +10,7 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shrey-Srivastava21&theme=monokai" display=block width=100% height=auto  alt="1" >
 </div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Shrey-Srivastava21&label=Profile%20views&color=0e75b6&style=flat-square" alt="Shrey-Srivastava21" width="150px"> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Shrey-Srivastava21&label=Profile%20views&color=0e75b6&style=flat-square" alt="Shrey-Srivastava21" width="250px"> </p>
 
 <p align="center">
   <a href="https://wakatime.com/@shakib"><img alt="" src="https://wakatime.com/badge/user/8e02bfd3-85d8-4d9d-88df-fa983f91ff30.svg"></a>
