@@ -115,6 +115,15 @@
 [![Shrey Srivastava GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Shrey-Srivastava21&&theme=xcode)](https://github.com/Shrey-Srivastava21)
 
 
+<!--  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shrey-Srivastava21&theme=nord_dark)  -->
+   
+<!--    ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shrey-Srivastava21&theme=nord_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shrey-Srivastava21&theme=nord_dark)
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shrey-Srivastava21&theme=nord) 
+ -->
+<!-- <h3 align="center"> 
+  <img src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shrey-Srivastava21&theme=nord_dark" />
+  <img src= "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shrey-Srivastava21&theme=nord" /> -->
+
 ## 🏆 GitHub Trophies
 
 <p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=Shrey-Srivastava21&theme=discord&column=8" alt="Shrey-Srivastava21" /></p>
@@ -196,9 +205,14 @@
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrey-srivastava21&show_icons=true&theme=dracula&locale=en&layout=compact" alt="shrey-srivastava21" /></p>
  
+<p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shrey-Srivastava21&theme=nord_dark" /><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shrey-Srivastava21&theme=nord_dark" /></p>
  
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrey-srivastava21&theme=monokai" alt="Shrey-Srivastava21" /></p>
- 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Shrey-Srivastava21&show_icons=true&theme=onedark" alt="Shrey-Srivastava21" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrey-srivastava21&theme=monokai" alt="Shrey-Srivastava21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shrey-Srivastava21&show_icons=true&theme=onedark" alt="Shrey-Srivastava21" /></p>
+
+  
+  
+
+<!-- <p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shrey-Srivastava21&theme=nord_dark" /></p> -->
 
  
