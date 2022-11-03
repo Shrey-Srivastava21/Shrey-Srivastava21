@@ -11,10 +11,10 @@
 <h3 align="right">#loveprogramming#chillwith😍</h3>
 <h3 align="right">🎶🔋📲🍰👨‍💼♻️</h3>
 </p>
-
+<!-- 
 <img width="200px" align="left" src="https://komarev.com/ghpvc/?username=your-github-Shrey-Srivastava21&style=flat-square&color=232323">
 <hr>
-<br>
+<br> -->
 
 <div>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shrey-Srivastava21&theme=monokai" display=block width=100% height=auto  alt="1" >
