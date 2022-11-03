@@ -107,7 +107,7 @@
 [![](https://img.shields.io/badge/-Shrey%20Srivastava-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shrey-srivastava-591bb21bb/)](https://www.linkedin.com/in/shrey-srivastava-591bb21bb/)
 [![](https://img.shields.io/badge/-demonshrey.1738@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:demonshrey.1738@gmail.com)](mailto:demonshrey.1738@gmail.com)
 [![](https://img.shields.io/badge/-Shrey-Srivastava21-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shrey-Srivastava21)
-![](https://img.shields.io/badge/-sajal%20%231739-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+![](https://img.shields.io/badge/-Shrey%20%231739-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 
           
