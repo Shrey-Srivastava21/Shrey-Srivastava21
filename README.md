@@ -18,21 +18,21 @@
 
 <br>
 
-<img width="200px" align="left" src="https://komarev.com/ghpvc/?username=your-github-Tanay-Dwivedi&style=flat-square&color=22CCB2">
+<img width="200px" align="left" src="https://komarev.com/ghpvc/?username=your-github-Shrey-Srivastava21&style=flat-square&color=22CCB2">
 <hr>
 <br>
 
 <div>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanay-Dwivedi&theme=monokai"  display=block width=100% height=auto  alt="1" >
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shrey-Srivastava21&theme=monokai"  display=block width=100% height=auto  alt="1" >
 </div>
 
 ## 📊 GitHub Activity
-| ![Tanay github stats](https://github-readme-stats.vercel.app/api?username=Tanay-Dwivedi&show_icons=true&theme=radical) | ![Tanay GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tanay-Dwivedi&theme=radical)                                                                                                           |
+| ![Tanay github stats](https://github-readme-stats.vercel.app/api?username=Shrey-Srivastava21&show_icons=true&theme=radical) | ![Tanay GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shrey-Srivastava21&theme=radical)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanay-Dwivedi&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Tanay-Dwivedi&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tanay-Dwivedi&theme=nord_dark) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tanay-Dwivedi&theme=nord_dark)
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey-Srivastava21&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Shrey-Srivastava21&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shrey-Srivastava21&theme=nord_dark) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shrey-Srivastava21&theme=nord_dark)
 
-![Tanay's github activity graph](https://activity-graph.herokuapp.com/graph?username=Tanay-Dwivedi&theme=github)
+![Tanay's github activity graph](https://activity-graph.herokuapp.com/graph?username=Shrey-Srivastava21&theme=github)
 
 <hr>
 
@@ -53,10 +53,8 @@
 
 ### <img src="ConnectWithMe.png" style="width:500px" align = "center">
 <p align="left" align='right'>
-<a target="_blank"href="mailto: tanaydwivedi2002@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a target="_blank"href="https://www.linkedin.com/in/tanaydwivedi01102002/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a target="_blank"href="https://www.instagram.com/tanay.0110/">	<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a target="_blank"href="https://www.facebook.com/tanay.0110/">	<img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a target="_blank"href="mailto: demonshrey.1738@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a target="_blank"href="https://www.linkedin.com/in/shrey-srivastava-591bb21bb/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <br>
 
