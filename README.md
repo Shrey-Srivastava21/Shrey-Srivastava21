@@ -1,9 +1,9 @@
 
 <p align="center">
-<img src="https://github-widgetbox.vercel.app/api/profile?username=Tanay-Dwivedi&data=followers,repositories,stars,commits">
+<img src="https://github-widgetbox.vercel.app/api/profile?username=Shrey-Srivastava21&data=followers,repositories,stars,commits">
 </p>
 
-<h1 align="center"> Bonjour🤠, TANAY this side🙎‍♂️</h1>
+<h1 align="center"> Bonjour🤠, Shrey this side🙎‍♂️</h1>
 <h3 align="center">An aspiring App Developer and a Tech Geek with a passion of learning new technologies</h3>
 
 - 👨‍💻 I’m currently learning **Android/Flutter Development & Competitive Programming.**
