@@ -1,4 +1,3 @@
-
 <p align="center">
 <img src="https://github-widgetbox.vercel.app/api/profile?username=Shrey-Srivastava21&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
 </p>
@@ -66,6 +65,15 @@
 [![Shrey Srivastava github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shrey-Srivastava21&theme=github)](https://github.com/shrey-srivastava21/github-readme-activity-graph)
 
 <hr>
+
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
+## 🏆 GitHub Trophies
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shrey-Srivastava21&theme=dracula&margin-w=15&margin-h=15&column=9" alt="Shrey-Srivastava21" /></a></p>
+<p>
 
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
