@@ -13,7 +13,7 @@
 <h3 align="center">An aspiring Web & ML Developer. A Tech Geek with a passion of learning //New Technologies//</h3>
 
 
-- 🔭 I’m currently working on **AI Based Music Player[Sentiment Analysis]**👨‍
+- 🔭 I’m currently working on **AI Based Music Player using Sentiment Analysis**👨‍
 
 - 🌱 I’m currently learning **Microservices in Full-Stack**👀
 
