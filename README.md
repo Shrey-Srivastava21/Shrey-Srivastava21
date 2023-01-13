@@ -48,10 +48,11 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
+<hr>
+
 [![Shrey Srivastava github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shrey-Srivastava21&theme=github)](https://github.com/shrey-srivastava21/github-readme-activity-graph)
 
-
-<!-- <hr> -->
+<hr>
 
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
