@@ -10,7 +10,7 @@
 </h3>
 
 
-<h3 align="center">An aspiring Web & ML Developer. A Tech Geek with a passion of learning new technologies</h3>
+<h3 align="center">An aspiring Web & ML Developer. A Tech Geek with a passion of learning //New Technologies//</h3>
 
 
 - 🔭 I’m currently working on **AI Based Music Player[Sentiment Analysis]**👨‍
@@ -60,6 +60,8 @@
 </h3>
 
 <hr>
+
+## 📈 GitHub Activity Graph
 
 [![Shrey Srivastava github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shrey-Srivastava21&theme=github)](https://github.com/shrey-srivastava21/github-readme-activity-graph)
 
