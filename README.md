@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="akudama-drive-anime_4.1.gif" />
+  <img src="akudama_shrey.gif" />
 </p>
 
 <p align="center">
