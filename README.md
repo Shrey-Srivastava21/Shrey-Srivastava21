@@ -10,7 +10,7 @@
 </h3>
 
 
-<h3 align="center">An aspiring Web & ML Developer. A Tech Geek with a passion of learning //New Technologies//</h3>
+<h3 align="center">An aspiring **Web & ML Developer**. A Tech Geek with a passion of learning **New Technologies**</h3>
 
 
 - 🔭 I’m currently working on **AI Based Music Player using Sentiment Analysis**👨‍
