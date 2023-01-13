@@ -3,24 +3,31 @@
 <img src="https://github-widgetbox.vercel.app/api/profile?username=Shrey-Srivastava21&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
 </p>
 
-<h1 align="center"> Hemlo Guys!🤠, Shrey this side🙎‍♂️</h1>
+<h1 align="center"> Assalamu Alaikum Guys!🤠, Shrey this side🙎‍♂️</h1>
 
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
 
-<h3 align="center">An aspiring App Developer and a Tech Geek with a passion of learning new technologies</h3>
+<h3 align="center">An aspiring Web & ML Developer. A Tech Geek with a passion of learning new technologies</h3>
 
-- 👨‍💻 I’m currently learning **Android/Flutter Development & Competitive Programming.**
 
-- 📱 Currently doing projects on <i>**Android</i> as well as <i>Flutter**</i> . 
+- 🔭 I’m currently working on **AI Based Music Player[Sentiment Analysis]**👨‍
 
-- 🦜 I am always up for **Hackathons and App Development project** collaborations.
- 
-- 📖 Ask me about anything **Android Development**  :) 
+- 🌱 I’m currently learning **Microservices in Full-Stack**👀
 
-- 😜 Fun fact: **I Love watching Anime and playing Piano!!**
+- 👯 I’m looking to collaborate on **Web & ML Projects**⛳
+
+- 💬 Ask me about **#DSA(C++&Java) , #📱Web & Machine Learning Development**🤖
+
+- 🤖 I'm Co-Founder and Tech-Lead of **Insights Club at VIT, Bhopal-@VITB**📖
+
+- 🥅 2023 Goals: Contribute more to **Open Source projects**🥇
+
+- 📫 How to reach me **demonshrey.1738@gmail.com or Contact me at +91-6392098133**🎃
+
+- 😜 Fun fact: **AshuXD🎭**
 
 <br>
 
