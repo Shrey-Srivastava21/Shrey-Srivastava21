@@ -96,9 +96,13 @@
 </h3>
 
 ## 🏆 GitHub Trophies
-
+<!-- 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shrey-Srivastava21&theme=dracula&margin-w=15&margin-h=15&column=9" alt="Shrey-Srivastava21" /></a></p>
-<p>
+<p> -->
+ 
+<h3 align="center">
+<img src="https://hacked-github-stat-trophies.vercel.app/?username=tynab&theme=dracula&column=11">
+</h3>
 
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
