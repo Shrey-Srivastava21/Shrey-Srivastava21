@@ -101,7 +101,7 @@
 <p> -->
  
 <h3 align="center">
-<img src="https://hacked-github-stat-trophies.vercel.app/?username=tynab&theme=dracula&column=11">
+<img src="https://hacked-github-stat-trophies.vercel.app/?username=Shrey-Srivastava21&theme=dracula&column=11">
 </h3>
 
 <h3 align="center">
