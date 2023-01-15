@@ -13,7 +13,7 @@
 </h3>
 
 
-<h3 align="center">An aspiring Web & ML Developer. A Tech Geek with a passion of learning New Technologies</h3>
+<h3 align="center">An aspiring Web, App & ML Developer. A Tech Geek with a passion of learning New Technologies</h3>
 
 <p align="center">
   <a href="https://github.com/kogutstt2"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Web%20developer;Web%20and%20Ml%20Expert;2%2B%20years%20of%20rich%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
