@@ -61,7 +61,7 @@
 <br>
 
 <div>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shrey-Srivastava21&theme=monokai"  display=block width=100% height=auto  alt="1" >
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shrey-Srivastava21&theme=2077"  display=block width=100% height=auto  alt="1" >
 </div>
 
 <h3 align="center">
@@ -74,7 +74,7 @@
 
 | ![Shrey Github Stats](https://github-readme-stats.vercel.app/api?username=Shrey-Srivastava21&show_icons=true&theme=radical) | ![Shrey GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shrey-Srivastava21&theme=radical)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey-Srivastava21&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Shrey-Srivastava21&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=monokai) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey-Srivastava21&langs_count=8&theme=radical&layout=radical) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Shrey-Srivastava21&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shrey-Srivastava21&theme=nord_dark) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shrey-Srivastava21&theme=nord_dark)
 
 <hr>
