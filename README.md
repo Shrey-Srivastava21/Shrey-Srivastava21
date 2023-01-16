@@ -44,9 +44,9 @@
 
 - 🥅 2023 Goals: Contribute more to **Open Source projects**🥇
 
-- 📫 How to reach me **demonshrey.1738@gmail.com or Contact me at +91-6392098133**🎃
+- 📫 You can reach me at **demonshrey.1738@gmail.com or Contact me at +91-6392098133**🎃
 
-- 😜 Fun fact: **AshuXD🎭**
+- 😜 Fun fact: **AshuXD/MERI LIFE/🎭**
 
 <br>
 
