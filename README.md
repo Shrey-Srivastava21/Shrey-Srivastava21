@@ -65,6 +65,7 @@
 </h3>
 
 ## 📊 GitHub Activity
+
 | ![Shrey Github Stats](https://github-readme-stats.vercel.app/api?username=Shrey-Srivastava21&show_icons=true&theme=radical) | ![Shrey GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shrey-Srivastava21&theme=radical)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey-Srivastava21&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Shrey-Srivastava21&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=monokai) |
@@ -76,9 +77,9 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-<hr>
-
 ## 📈 GitHub Activity Graph
+
+<hr>
 
 [![Shrey Srivastava github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shrey-Srivastava21&theme=github)](https://github.com/shrey-srivastava21/github-readme-activity-graph)
 
