@@ -30,6 +30,8 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
+<hr>
+
 - 🔭 I’m currently working on **AI Based Music Player using Sentiment Analysis**👨‍
 
 - 🌱 I’m currently learning **Microservices in Full-Stack**👀
@@ -47,6 +49,8 @@
 - 😜 Fun fact: **AshuXD🎭**
 
 <br>
+
+<hr>
 
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
