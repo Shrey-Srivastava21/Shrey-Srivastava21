@@ -128,9 +128,21 @@
 
 ### <img src="ConnectWithMe.png" align = "center" width=100% height=auto>
 
-<p align="left" align='right'>
-<a target="_blank"href="mailto: demonshrey.1738@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<hr>
+
+<p align="center" align='right'>
 <a target="_blank"href="https://www.linkedin.com/in/shrey-srivastava-591bb21bb/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a target="_blank"href="mailto: demonshrey.1738@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a target="_blank"href="https://discord.com/users/8632"><img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a target="_blank"href="https://twitter.com/Dev_Sr57652637"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+<a target="_blank"href="https://www.instagram.com/srivastava_rehaan21/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a target="_blank"href="https://www.youtube.com/channel/UCzA-UBsRA0PSOVPCs-s9Uuw"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
+ 
+<hr>
+
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
 <br>
 
