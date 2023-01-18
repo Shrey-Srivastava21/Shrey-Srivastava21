@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="akudama_shrey.gif" align="center" width="100%" />
+  <img src="akudama_shrey.gif" align="center" width="90%" />
 </p>
 
 
