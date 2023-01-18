@@ -19,8 +19,10 @@
 </p>
 
 <p align="center">
-  <img src="akudama_shrey.gif" />
+  <img src="akudama_shrey.gif" align="center" width="100%" />
 </p>
+
+
 
 <p align="center">
 <img src="https://github-widgetbox.vercel.app/api/profile?username=Shrey-Srivastava21&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
@@ -157,7 +159,23 @@
 <img src="https://github.com/adityamangal1/adityamangal1/blob/output/github-contribution-grid-snake.svg">
 </h3>
 
-### <p align="center">🎉 Welcome, to the world of Binary 🥂</p>
+### <p align="center">🎡 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝖙𝖍𝖊 𝖜𝖔𝖗𝖑𝖉 𝖔𝖋 𝕮𝖔𝖉𝖎𝖓𝖌! 👨‍💻</p>
+
+<div>
+<img src="./assets/img/banner-fullstack.gif" align="center" width="100%">
+</div>
 
 
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" align="center" width="100%">
+</h3>
 
+<hr>
+
+<h2 align="center">☺𝑻𝒉𝒂𝒏𝒌 𝒚𝒐𝒖 𝒇𝒐𝒓 𝒗𝒊𝒔𝒊𝒕𝒊𝒏𝒈!💖</h2>
+
+<hr>
+ 
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
