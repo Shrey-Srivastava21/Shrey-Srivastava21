@@ -76,7 +76,7 @@
 
 | ![Shrey Github Stats](https://github-readme-stats.vercel.app/api?username=Shrey-Srivastava21&show_icons=true&theme=radical) | ![Shrey GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shrey-Srivastava21&theme=radical)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey-Srivastava21&langs_count=8&theme=radical&layout=radical) | ![Github Stars](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shrey-Srivastava21&theme=radical&utcOffset=8) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey-Srivastava21&langs_count=8&theme=radical&layout=compact) | ![Github Stars](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shrey-Srivastava21&theme=radical&utcOffset=8) |
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shrey-Srivastava21&theme=2077) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shrey-Srivastava21&theme=2077)
 
 <!-- color=nord_dark -->
