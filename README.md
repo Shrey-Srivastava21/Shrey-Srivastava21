@@ -46,7 +46,7 @@
 
 - 🥅 2023 Goals: Contribute more to **Open Source projects**🥇
 
-- 📫 You can reach me at **demonshrey.1738@gmail.com or Contact me at +91-6392098133**🎃
+- 📫 You can reach me at **demonshrey.1738@gmail.com**🎃
 
 - 😜 Fun fact: **Only Rehaan know's🎗Playing with 💖**
 
