@@ -48,7 +48,7 @@
 
 - 📫 You can reach me at **demonshrey.1738@gmail.com or Contact me at +91-6392098133**🎃
 
-- 😜 Fun fact: **AshuXD/MERI LIFE/🎭**
+- 😜 Fun fact: **Only Rehaan know's🎗Playing with 💖**
 
 <br>
 
