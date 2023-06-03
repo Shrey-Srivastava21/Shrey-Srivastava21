@@ -88,13 +88,7 @@
 </h3>
 
 ## 📈 GitHub Contribution Graph
-
-<hr>
-<!-- 
-[![Shrey Srivastava github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shrey-Srivastava21&theme=github)](https://github.com/shrey-srivastava21/github-readme-activity-graph)
- -->
-[![Shrey Srivastava github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shrey-Srivastava21&bg_color=ffd1d1&color=4c9e91&line=654c9e&point=41403e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Shrey Srivastava github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shrey-Srivastava21&bg_color=d4d1ff&color=4c749e&line=9e4c59&point=40413e&area=true&hide_border=true)](https://github.com/Shrey-Srivastava21/github-readme-activity-graph)
 <hr>
 
 <h3 align="center">
