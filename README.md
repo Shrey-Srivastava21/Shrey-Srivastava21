@@ -6,13 +6,13 @@
 <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+🌎;Welcome+to+my+profile+😇;Happy+to+see+you+here+😀;Feel+free+to+look+around+😌;Reach+me+out+if+you+need+me+🤗;Have+a+great+day+😊"></a>
 </p>
 
-<h1 align="center"> Hello Guys!🤠, Shrey this side🙎‍♂️</h1>
+<h1 align="center"> 𝐻𝑒𝓁𝓁𝑜 𝒢𝓊𝓎𝓈!🤠, 𝒮𝒽𝓇𝑒𝓎 𝓉𝒽𝒾𝓈 𝓈𝒾𝒹𝑒 </h1>
 
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-<h3 align="center">An aspiring Full Stack[MERN] & ML Developer. A Tech Geek with a passion of learning New Technologies.</h3>
+<h3 align="center"> 𝓐𝓷 𝓪𝓼𝓹𝓲𝓻𝓲𝓷𝓰 𝓕𝓾𝓵𝓵-𝓢𝓽𝓪𝓬𝓴& 𝓜𝓛 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻. 𝓐 𝓣𝓮𝓬𝓱 𝓖𝓮𝓮𝓴 𝔀𝓲𝓽𝓱 𝓪 𝓹𝓪𝓼𝓼𝓲𝓸𝓷 𝓸𝓯 𝓵𝓮𝓪𝓻𝓷𝓲𝓷𝓰 𝓝𝓮𝔀 𝓣𝓮𝓬𝓱𝓷𝓸𝓵𝓸𝓰𝓲𝓮𝓼. </h3>
 
 <p align="center">
   <a href="https://github.com/kogutstt2"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Web%20developer;Web%20and%20Ml%20Expert;2%2B%20years%20of%20rich%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
