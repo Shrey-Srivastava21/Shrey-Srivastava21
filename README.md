@@ -32,6 +32,9 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
+
+[![@shreysrivastava21's Holopin badges, Holopin profile](https://holopin.me/shreysrivastava21)](https://holopin.io/@shreysrivastava21)
+
 <hr>
 
 - 🔭 I’m currently working on **AI Based Music Player using Sentiment Analysis**👨‍
