@@ -48,7 +48,7 @@
 
 - 🥅 2023 Goals: Contribute more to **Open Source projects**🥇
 
-- 📫 You can reach me at **demonshrey.1738@gmail.com**🎃
+- 📫 You can reach me at **shrey.srivastava2101@gmail.com**🎃
 
 - 😜 Fun fact: **Only Rehaan know's🎗Playing with 💖**
 
