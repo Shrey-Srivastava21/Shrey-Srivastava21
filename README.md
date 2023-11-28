@@ -23,7 +23,6 @@
 </p>
 
 
-
 <p align="center">
 <img src="https://github-widgetbox.vercel.app/api/profile?username=Shrey-Srivastava21&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
 </p>
