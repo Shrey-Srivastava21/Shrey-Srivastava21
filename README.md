@@ -31,8 +31,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-
-[![@shreysrivastava21's Holopin badges, Holopin profile](https://holopin.me/shreysrivastava21)](https://holopin.io/@shreysrivastava21)
+![![@shreysrivastava21's Holopin badges, Holopin profile](https://github.com/Shrey-Srivastava21/Shrey-Srivastava21/assets/84815622/54cd8bb8-0216-4a49-85d6-4c9e0b03b6e6)
 
 <hr>
 
