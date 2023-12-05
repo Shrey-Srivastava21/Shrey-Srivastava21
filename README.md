@@ -35,7 +35,7 @@
 
 <hr>
 
-- 🔭 I’m currently working on **AI Based Music Player using Sentiment Analysis**👨‍
+- 🔭 I’m currently working on **AI Generated Scripts Algorithms**👨‍
 
 - 🌱 I’m currently learning **Microservices in Full-Stack**👀
 
@@ -45,7 +45,7 @@
 
 - 🤖 I'm Co-Founder and Tech-Lead of **Insights Club at VIT, Bhopal-@VITB**📖
 
-- 🥅 2023 Goals: Contribute more to **Open Source projects**🥇
+- 🥅 2024 Goals: Contribute more to **Open Source projects**🥇
 
 - 📫 You can reach me at **shrey.srivastava2101@gmail.com**🎃
 
