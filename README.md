@@ -46,9 +46,9 @@
 
 - 👯 I’m looking to collaborate on **Web & ML Projects**⛳
 
-- 💬 Ask me about **#DSA(C++ & Java) , #Web & Machine Learning Development**📱
+- 💬 Ask me about **DSA, Web & Machine Learning Development**📱
 
-- 🤖 I'm Co-Founder and Tech-Lead of **Insights Club at VIT, Bhopal-@VITB**📖
+- 🤖 I'm Co-Founder and Tech-Lead of **Insights Club at VIT**📖
 
 - 🥅 2024 Goals: Contribute more to **Open Source projects**🥇
 
