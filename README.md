@@ -23,6 +23,9 @@
 </p>
 
 
+
+
+
 <p align="center">
 <img src="https://github-widgetbox.vercel.app/api/profile?username=Shrey-Srivastava21&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
 </p>
@@ -34,6 +37,8 @@
 ![@shreysrivastava21's Holopin badges, Holopin profile](https://github.com/Shrey-Srivastava21/Shrey-Srivastava21/assets/84815622/54cd8bb8-0216-4a49-85d6-4c9e0b03b6e6)
 
 <hr>
+
+<img align="right" src="https://github.com/abhiishek-10/abhiishek-10/blob/main/github.gif?raw=true" style="max-width: 100%; display: inline-block;" width='400' >
 
 - 🔭 I’m currently working on **AI Generated Scripts Algorithms**👨‍
 
