@@ -42,19 +42,19 @@
 
 - 🔭 I’m currently working on **AI Generated Scripts Algorithms**👨‍
 
-- 🌱 I’m currently learning **Microservices in Full-Stack**👀
+- 🌱 I’m currently learning **Microservices in Full-Stack (Java)**👀
 
-- 👯 I’m looking to collaborate on **Web & ML Projects**⛳
+- 👯 I’m looking to collaborate on **Web-app & ML Projects**⛳
 
 - 💬 Ask me about **DSA, Web & Machine Learning Development**📱
 
 - 🤖 I'm Co-Founder and Tech-Lead of **Insights Club at VIT**📖
 
-- 🥅 2024 Goals: Contribute more to **Open Source projects**🥇
+- 🥅 2025 Goals: Contribute more to **Open Source projects**🥇
 
-- 📫 You can reach me at **shrey.srivastava2101@gmail.com**🎃
+- 📫 You can reach me at **shrey.srivastava2001@gmail.com**🎃
 
-- 😜 Fun fact: **Only Rehaan know's🎗Playing with 💖**
+- 😜 Fun fact: **Only Rehaan know's🎗 Playing with 💖**
 
 <br>
 
