@@ -42,7 +42,7 @@
 
 - 🔭 I’m currently working on **AI Generated Scripts Algorithms**👨‍
 
-- 🌱 I’m currently learning **Microservices in Full-Stack (Java)**👀
+- 🌱 I’m currently learning **Microservices in Full-Stack - Java**👀
 
 - 👯 I’m looking to collaborate on **Web-app & ML Projects**⛳
 
